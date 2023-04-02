@@ -1,0 +1,12 @@
+p1=RRBRR,p2=BBBRB,p3=R,p4=B
+P4,p3
+P2,p3
+P2,p4
+P3,p2
+P3,p2
+P3,p4
+P1,p4
+P1,p4
+P1,p2
+P1,p4
+P1,p4
